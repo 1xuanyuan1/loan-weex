@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.10.0_ae6ca0380e3fc2890dffda11dd9d717331aee82f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_b2351ce0f8dbda9cbf8cb67d175b4b98710771bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_0c2569038dd6e2c52d4868048e15d7cb1d892740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/android/weexplugin/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4380920339da6432983f39c738858bc0aef8cf0e">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/android-weexplugin-unspecified_c5a3677468169ac9c390de4031303ea3606aacf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_sdk/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c661d2cd2b4e0f3236d37b1e2b84b2b3a0a19f5">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_sdk-0.10.0_cbcf6a9a41978643a6f81d7a1758eb42cd6e78cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_inspector/0.10.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="575d72d4a489260763ca62b2b54450fdec3bebd1">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_inspector-0.10.0.5_8a421dec8fd834ba62ba3a4db600bec66626420c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_fb1392e4e5aa40bc7ab18653d19c174564ca248c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_4a4dfa2ac634f3c4ccd95c429897033daa1c21d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_395ba7976ba62400686e9aab805743da8210bf6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/android/appframework/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c33b99b7446014438ea4fa95a52104407a93d299">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/android-appframework-unspecified_6f5d387bb0e9865509cd82f85fcf4f40d84355a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0_14c5ba6c7af75e39c9689a987e9cc823b0069ff7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.46.android/108717c93f7aec31fb86db57cb4ad1e26034c638/fastjson-1.1.46.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="108717c93f7aec31fb86db57cb4ad1e26034c638">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/fastjson-1.1.46.android_d046f5c8a9e534def565ca29961fe73d7cdbc45f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.10.0_3dcf1a329bc27714223b35b3cf2047fa968cf551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.10.0_1d98c22dea8ff7ad9fb6d38a321cf0afe03c0166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/okio-1.3.0_a604994a8bf10e2dbe9807d9a94c6e691d52b847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_6e80bbdc333ba88e6683b79a0f6c3bedc92ad830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.3.0_61a7e0faccf2868eee4103067ef607a04a98e559.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.4.0_2e1dc1578f22f8dd8f812c2715eeba73aa5bd2c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_814a0189640d4c519bae79d52b237dec384d9fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_491a07cf5d88d452e357db9e8db1f84cf7d8705b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.10.0_033b0161415c0e2ff225b7783721eea450e7f785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_7614e061596a159849b1f5b0dd58891b07d6301b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_23efa2e0195743ea0c7aa176f9648b0c00f4ded6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.10.0_66894b99ec158809fb3ae6238bb5f57bed5d145b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/jacocoagent_7b154ccc3ea8d12990a4b87fbe64ea8d041820a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/daiwenjun/Documents/workspace/loan-weex/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_a2567b62bb3deb5e7fe008275e181cb59aa65441.jar" />
+    </item>
+
+</items>

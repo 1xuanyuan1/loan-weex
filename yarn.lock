@@ -4953,7 +4953,14 @@ vue-style-loader@^3.0.0:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
-vue-template-compiler@^2.1.10, vue-template-compiler@^2.1.8, vue-template-compiler@^2.4.2, vue-template-compiler@^2.4.4:
+vue-template-compiler@^2.1.10, vue-template-compiler@^2.1.8:
+  version "2.5.0"
+  resolved "http://registry.npm.taobao.org/vue-template-compiler/download/vue-template-compiler-2.5.0.tgz#2e138f1643e131f24f6e19733690713b7543a937"
+  dependencies:
+    de-indent "^1.0.2"
+    he "^1.1.0"
+
+vue-template-compiler@^2.4.2, vue-template-compiler@^2.4.4:
   version "2.4.4"
   resolved "http://registry.npm.taobao.org/vue-template-compiler/download/vue-template-compiler-2.4.4.tgz#2cde3b704124985c27d50b5387c9691ba515fb57"
   dependencies:
@@ -4965,8 +4972,8 @@ vue-template-es2015-compiler@^1.2.2:
   resolved "http://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.6.0.tgz#dc42697133302ce3017524356a6c61b7b69b4a18"
 
 vue@^2.1.5, vue@^2.1.8:
-  version "2.4.4"
-  resolved "http://registry.npm.taobao.org/vue/download/vue-2.4.4.tgz#ea9550b96a71465fd2b8b17b61673b3561861789"
+  version "2.5.0"
+  resolved "http://registry.npm.taobao.org/vue/download/vue-2.5.0.tgz#7f0706c0804257e8d42e5970e1a36e648483988d"
 
 vuex-router-sync@^4.0.1:
   version "4.3.2"
